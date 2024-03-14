@@ -1,6 +1,3 @@
-from src.abstract import AbstractVacancyStorage
-
-
 class Vacancy:
     name: str
     link: str
